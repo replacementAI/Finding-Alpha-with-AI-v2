@@ -2,6 +2,11 @@
 
 In [v1], we evaluated simple linear models, now we will also evaluate neural networks and tree models.
 
+![image](https://github.com/replacementAI/Finding-Alpha-with-AI-v2/assets/55959390/dc83cf27-fff9-456a-b89f-0a0a445f70c4)
+![image](https://github.com/replacementAI/Finding-Alpha-with-AI-v2/assets/55959390/63c64a66-ba99-4ce6-bb52-a3cc019ea9b0)
+![image](https://github.com/replacementAI/Finding-Alpha-with-AI-v2/assets/55959390/4b247223-ba20-46ce-b1dd-b1d58367df25)
+![image](https://github.com/replacementAI/Finding-Alpha-with-AI-v2/assets/55959390/e0f480df-e85e-432d-ad97-7566b004dc0a)
+
 In these series of jupyter notebooks, we will go over how to create simple AI models for strategies in the stock market. 
 
 In the [first notebook], we evaluate and visualize different models to determine the correlation (aka similarity) between their outputs, in order to create diverse strategies that will perform well when combined into one model.
