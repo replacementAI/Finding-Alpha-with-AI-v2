@@ -1,6 +1,9 @@
 # Finding-Alpha-with-AI-v2
 
-In [v1], we evaluated simple linear models, now we will also evaluate neural networks and tree models.
+Improvements from [v1]:
+1. Neural networks and tree models instead of just linear models
+2. Also creating features from gold prices instead of just SPY ETF and bond prices.
+3. Scoring function now accounts for shorting
 
 In these series of jupyter notebooks, we will go over how to create simple AI models for strategies in the stock market. 
 
