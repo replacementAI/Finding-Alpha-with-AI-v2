@@ -19,6 +19,6 @@ In the [third notebook], we evaluate different parameters of models (as opposed 
 ![image](https://github.com/replacementAI/Finding-Alpha-with-AI-v2/assets/55959390/a538ab62-1e9e-45de-a6ba-435deeab8583)
 
 [v1]: https://github.com/replacementAI/Finding-Alpha-with-AI
-[first notebook]: https://github.com/replacementAI/
-[second notebook]: https://github.com/replacementAI/
-[third notebook]: https://github.com/replacementAI/
+[first notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI-v2/blob/main/Code/Step_1_Evaluating_Different_Models.ipynb
+[second notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI-v2/blob/main/Code/Step_2_Finding_Optimal_Interval_and_Lookback.ipynb
+[third notebook]: https://github.com/replacementAI/Finding-Alpha-with-AI-v2/blob/main/Code/Step_3_Optimizing_Model_Parameters.ipynb
